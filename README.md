@@ -1,4 +1,4 @@
-# Common Frontend Developer Mistakes That Lead to Security Issues
+# Common Frontend Developer general-issues That Lead to Security Issues
 
 Repo ini berisi **Common Secruty Issue untuk Frontend Developer** yang sering menyebabkan masalah keamanan.
 
@@ -12,7 +12,7 @@ Setiap mistake memiliki file terpisah dengan format ringkas:
 
 ## Struktur Repo
 
-- `/mistakes/mistake-XX.md` → satu file per kesalahan
+- `/general-issues/issue-name.md` → satu file per kesalahan
 - `README.md` → file ini
 
 ## Kontribusi
